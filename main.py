@@ -5,6 +5,6 @@ from app.core.database import Base, engine
 app = FastAPI()
 Base.metadata.create_all(bind=engine)
 
-@app.get("/health")
+@app.get("/")
 async def health():
     return {"message": "API is running"}
