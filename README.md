@@ -30,10 +30,9 @@ Blogapp__
 
 ---
 
- Access the API
+Tech Stack Used
+Python, Sqlalchemy , sqlite & Postgresql , Fastapi , Docker , Docker Compose 
 
-* Swagger UI: http://localhost:8000/docs
-* ReDoc: http://localhost:8000/redoc
 
 
 Author
